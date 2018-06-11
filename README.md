@@ -1,0 +1,2 @@
+# ViewIP
+GET IP
