@@ -12,7 +12,7 @@ In this class we have two methods statics:
 2. Request::Location($ip) -> To get the location about param ip ... This method return a array to details.
 
 ### CREDITS
-For tests I'm use de free [!site](http://ip-api.com)
+For tests I'm use de free [site](http://ip-api.com)
 
 ## License
 MIT - 2018, Acidiney Dias
